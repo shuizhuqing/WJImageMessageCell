@@ -14,7 +14,6 @@
     CAShapeLayer *_maskLayer;
     
 }
-@property (strong, nonatomic) IMChatLinkItem *linkItem;
 @property (strong, nonatomic) id paramengItem;
 
 @end
